@@ -1,0 +1,23 @@
+table{
+  width: 100%;
+  height: 350px;
+  /* gap: 50x; */
+}
+tbody{
+    width: 100px;
+    height: 100%;
+}
+th{
+    background-color: rgb(215, 249, 249);
+    text-align: left;
+    height: 30px;
+    border: none;
+    gap: none;
+    outline: none;
+}
+.status{
+    background-color: aqua;
+    width: 50px;
+    border-radius: 5px;
+    text-align: center;
+}

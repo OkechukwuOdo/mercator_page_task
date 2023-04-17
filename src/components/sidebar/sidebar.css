@@ -1,0 +1,23 @@
+.side-sty{
+    /* border: 1px solid; */
+    width: 20%;
+}
+ul li{
+    list-style: none;
+    gap: 30px;
+    margin: 20px;
+    text-decoration: none;
+
+}
+ul li div{
+    display: flex;
+    gap: 7px;
+
+}
+img{
+    height: 30px;
+}
+a{
+    text-decoration: none;
+    color: rgb(62, 57, 57);
+}

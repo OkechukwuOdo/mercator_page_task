@@ -1,0 +1,99 @@
+.welcome-tag {
+  display: flex;
+  padding: 20px;
+  /* border: 1px solid; */
+  width: inherit;
+  justify-content: space-between;
+}
+.short-links {
+  display: flex;
+  padding: 8px;
+  /* border: 1px solid; */
+  margin: 20px;
+  gap: 20px;
+  /* text-decoration: none; */
+  background-color: white;
+  width: 40em;
+}
+.display {
+  width: 80%;
+  background-color: rgb(227, 247, 247);
+}
+.date-icon {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+.creadit-debit {
+  display: flex;
+  gap: 20px;
+  padding: 30px;
+}
+
+.creadit-debit div {
+  /* border: 1px solid; */
+  width: 100px;
+  height: 50px;
+  background-color: white;
+  padding: 10px;
+}
+
+.creadit-debit p {
+  align-content: center;
+  padding: 5px;
+}
+
+h4 {
+  padding-top: 30px;
+  margin-left: 50px;
+}
+h3{
+    margin-left: 30px;
+}
+.table-display {
+  /* border: 1px solid; */
+  margin-left: 30px;
+  margin-right: 30px;
+  /* margin-top: 10px; */
+  background-color: white;
+  height: 100%;
+}
+.uper-hero {
+  /* border-bottom: 1px solid; */
+  background-color: rgb(227, 247, 247);
+  height: 50%;
+}
+.down-hero {
+  /* border: 1px solid; */
+  height: 50%;
+}
+.btn{
+    background-color: rgb(76, 76, 211);
+    color: white;
+    width: 9em;
+}
+.btn:hover{
+    background-color: rgb(76, 76, 211);
+    color: white;
+    width: 9em;
+}
+button{
+    border-radius: 5px;
+    width: 8em;
+    height: 2em;
+    border: none;
+}
+button:hover{
+    border-radius: 5px;
+    width: 8em;
+    height: 2em;
+    border: none;
+    background-color: aliceblue;
+}
+.table-fetch{
+    background-color: rgb(227, 247, 247);
+    /* border: 1px solid; */
+    height: 100%;
+   margin-left: 2em;
+   margin-right: 2em;
+}
